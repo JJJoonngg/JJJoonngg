@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-'열심히' 보단 '잘' 을 추구하며 또한 '열심히' 도 하려하는 안드로이드 개발자 김종신입니다.\n
+'열심히' 보단 '잘' 을 추구하며 또한 '열심히' 도 하려하는 안드로이드 개발자 김종신입니다.<br>
 I am Kim Jong-shin, a developer of Android who pursues 'well' rather than 'hard' and tries to 'work hard' as well.
 
 <!--
