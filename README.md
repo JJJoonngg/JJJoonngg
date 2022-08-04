@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 
 ![android](https://img.shields.io/badge/android-Kotlin-green?style=plat&logo=android) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/JJJoonngg/)](https://www.instagram.com/JJJoonngg/)
  [![Blog Badge](https://img.shields.io/badge/-Blog-181717?logo=GitHub&logoColor=white&link=https://jjjoonngg.github.io/)](https://jjjoonngg.github.io/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:whdtls3878@gmail.com)](mailto:whdtls3878@gmail.com) 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JJJoonngg)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJJoonngg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
